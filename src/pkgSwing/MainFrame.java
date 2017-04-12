@@ -490,8 +490,10 @@ class MainFrame extends JFrame {
 		 }
 
 		@Override
-		public void actionPerformed(ActionEvent e) {
-         label.setText(e.getActionCommand());
+		public void actionPerformed(ActionEvent e)
+		{
+		 	label.setText(e.getActionCommand());
+		 	new ChildFrame();
 		}
 	}
 
