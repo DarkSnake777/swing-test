@@ -1,2 +1,2 @@
 # swing-test
-A test helloworld app 
+A test hello world app 
