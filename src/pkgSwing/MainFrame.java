@@ -44,9 +44,8 @@ class MainFrame extends JFrame {
 	private final JComboBox<ColoredPanel> cmb;
 	private  JPopupMenu popup;
 	private final MyAction action;
-	/**
-	 * 
-	 */
+
+
 	private static final long serialVersionUID = 1L;
 	
 	MainFrame()
