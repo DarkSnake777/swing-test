@@ -4,8 +4,10 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
+ * 
  * Created by DS on 12.04.2017.
  * demo of child window
+ *
  */
 class ChildFrame extends JFrame {
     ChildFrame()
