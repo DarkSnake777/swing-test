@@ -30,5 +30,8 @@ class ChildFrame extends JFrame {
         label2.setHorizontalAlignment(SwingConstants.CENTER);
         add(label2,BorderLayout.SOUTH);
 
+        JPanel panel = new JPanel();
+        add(panel,BorderLayout.CENTER);
+
     }
 }
