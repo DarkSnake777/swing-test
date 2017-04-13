@@ -27,7 +27,8 @@ class ChildFrame extends JFrame {
         add(label,BorderLayout.NORTH);
 
         JLabel label2 = new JLabel("Hot change");
-        add(label2,BorderLayout.SOUTH);
         label2.setHorizontalAlignment(SwingConstants.CENTER);
+        add(label2,BorderLayout.SOUTH);
+
     }
 }
