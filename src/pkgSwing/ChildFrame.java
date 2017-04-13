@@ -17,9 +17,12 @@ class ChildFrame extends JFrame {
         setDefaultCloseOperation(WindowConstants.DISPOSE_ON_CLOSE);
         setLocation(xcenter,ycenter);
         setSize(size);
-        setTitle("Child Frame fast correct on user demand hotfix!");
+        setTitle("Child Frame!");
         setAlwaysOnTop(true);
         setVisible(true);
+
+        JLabel label = new JLabel("Change in testing");
+        add(label,BorderLayout.NORTH);
 
     }
 }

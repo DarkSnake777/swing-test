@@ -18,6 +18,7 @@ import java.io.File;
 import java.lang.reflect.Field;
 
 
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -467,8 +468,8 @@ class MainFrame extends JFrame {
 		JPanel p2 = new JPanel();
          JTree tree;
          // DefaultMutableTreeNode top = new DefaultMutableTreeNode("�����"); 
-         TreeModel model = new FileTreeModel(new File(System.getProperty("user.dir")));
-      //   TreeModel model = new PathTreeModel(Paths.get(""));
+       //  TreeModel model = new FileTreeModel(new File(System.getProperty("user.dir")));
+         TreeModel model = new PathTreeModel(Paths.get(""));
 		
          tree = new JTree(model);
 		
