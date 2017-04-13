@@ -4,9 +4,6 @@
 
 package pkgSwing;
 
-
-
-
 import javax.swing.*;
 
 
