@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2010-2017 Chernikov Vitaly. All rights reserved.
+ */
+
 package pkgSwing;
 //new comment
 
@@ -25,10 +29,7 @@ import javax.swing.tree.TreeModel;
 
 
 
-/**
- * @author Vitaly
- *
- */
+
 class MainFrame extends JFrame {
 	
 	
