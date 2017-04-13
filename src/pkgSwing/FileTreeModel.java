@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2010-2017 Chernikov Vitaly. All rights reserved.
+ */
+
 package pkgSwing;
 
 import java.io.File;
@@ -7,10 +11,6 @@ import javax.swing.event.TreeModelListener;
 import javax.swing.tree.TreeModel;
 import javax.swing.tree.TreePath;
 
-/**
- * @author Vitaly
- *
- */
 class FileTreeModel implements TreeModel {
 	
 	private final File root;

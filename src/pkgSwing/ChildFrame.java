@@ -1,14 +1,13 @@
+/*
+ * Copyright (c) 2010-2017 Chernikov Vitaly. All rights reserved.
+ */
+
 package pkgSwing;
 
 import javax.swing.*;
 import java.awt.*;
 
-/**
- *
- * Created by DS on 12.04.2017.
- * demo of child window centered on screen
- *
- */
+
 class ChildFrame extends JFrame {
     ChildFrame()
     {

@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2010-2017 Chernikov Vitaly. All rights reserved.
+ */
+
 package pkgSwing;
 
 import java.awt.Color;
@@ -5,15 +9,10 @@ import java.awt.Dimension;
 
 import javax.swing.JPanel;
 
-/**
- * @author Vitaly
- *
- */
+
 class ColoredPanel extends JPanel {
 
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 	
 	private final static Dimension preferredSize = new Dimension(0, 20);

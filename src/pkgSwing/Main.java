@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2010-2017 Chernikov Vitaly. All rights reserved.
+ */
+
 package pkgSwing;
 
 
@@ -6,10 +10,6 @@ package pkgSwing;
 import javax.swing.*;
 
 
-/**
- * @author Vitaly
- *
- */
 class Main {
 	
 	

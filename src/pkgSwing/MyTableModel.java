@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2010-2017 Chernikov Vitaly. All rights reserved.
+ */
+
 package pkgSwing;
 import java.util.HashMap;
 import java.util.List;
@@ -5,10 +9,7 @@ import java.util.List;
 import javax.swing.event.TableModelListener;
 import javax.swing.table.TableModel;
 
-/**
- * @author Vitaly
- *
- */
+
 class MyTableModel   implements TableModel {
 
 	/* (non-Javadoc)
