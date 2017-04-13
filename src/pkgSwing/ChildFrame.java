@@ -24,5 +24,8 @@ class ChildFrame extends JFrame {
         JLabel label = new JLabel("Change in testing");
         add(label,BorderLayout.NORTH);
 
+        JLabel label2 = new JLabel("Hot change");
+        add(label2,BorderLayout.SOUTH);
+
     }
 }
