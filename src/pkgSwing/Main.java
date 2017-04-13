@@ -11,7 +11,7 @@ import javax.swing.*;
 
 
 class Main {
-	//client
+
 	
 	public static void main(String[] args)
 	{
