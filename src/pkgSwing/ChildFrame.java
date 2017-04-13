@@ -20,7 +20,7 @@ class ChildFrame extends JFrame {
         setTitle("Child Frame!");
         setAlwaysOnTop(true);
         setVisible(true);
-
+//label 1
         JLabel label = new JLabel("Change in testing");
         label.setHorizontalAlignment(SwingConstants.CENTER);
         label.setIcon(new ImageIcon("1.png"));
