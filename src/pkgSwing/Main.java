@@ -19,7 +19,7 @@ class Main {
 		//entry point
 		SwingUtilities.invokeLater(MainFrame::new);
 		 System.out.println("This might well be displayed before the other message.");
-
+        //some server changes
 	}
 	
 
