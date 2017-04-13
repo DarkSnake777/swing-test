@@ -20,5 +20,8 @@ class ChildFrame extends JFrame {
         setTitle("Child Frame");
         setVisible(true);
 
+        JLabel label = new JLabel("Change in testing");
+        add(label,BorderLayout.NORTH);
+
     }
 }
