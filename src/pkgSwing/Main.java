@@ -1,11 +1,9 @@
 /*
  * Copyright (c) 2010-2017 Chernikov Vitaly. All rights reserved.
  */
-
 package pkgSwing;
 
 import javax.swing.*;
-
 
 class Main {
 
