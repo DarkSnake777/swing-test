@@ -467,7 +467,7 @@ class MainFrame extends JFrame {
 	private JPanel addJTree() {
 		JPanel p2 = new JPanel();
          JTree tree;
-         // DefaultMutableTreeNode top = new DefaultMutableTreeNode("�����"); 
+         // DefaultMutableTreeNode top = new DefaultMutableTreeNode("Tree");
        //  TreeModel model = new FileTreeModel(new File(System.getProperty("user.dir")));
          TreeModel model = new PathTreeModel(Paths.get(""));
 		
