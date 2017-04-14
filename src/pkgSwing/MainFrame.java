@@ -313,13 +313,7 @@ class MainFrame extends JFrame {
          mainPanel.add(pnlCenter, BorderLayout.CENTER);
 
          mainPanel.add(addToolBar(),BorderLayout.WEST);
-    
-     
-      
-         
-		
-      
-        
+
          JPanel p2 = addJTree();
          JPanel p3 = addJTable();
 
